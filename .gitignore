@@ -1,0 +1,6 @@
+Math.o
+Entity.o
+main.o
+renderwindow.o
+SDL2 Platformer.sublime-project
+SDL2 Platformer.sublime-workspace
